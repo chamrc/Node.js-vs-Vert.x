@@ -40,7 +40,4 @@ On a 2013 retina macbook pro, time to complete 1000 concurrent requests on a nod
 Vert.x claimed to be much faster than node.js.
 On the contrary, time to complete 1000 concurrent request on a vert.x server is averaging 12.656 second with 60% of the test results over 14.000 second.
 
-#### Thoughts
-Yes, Vert.x is not not your grandpa's node, it's your while(true) { System.out.println("grandpa's "); } Vert.x.
-
 ### To be continued (with cluster & multiple verticles) 
